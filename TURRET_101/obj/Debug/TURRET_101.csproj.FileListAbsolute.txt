@@ -1,0 +1,9 @@
+C:\Users\ATTAH NEIYE\Desktop\bank\TURRET_101\TURRET_101\bin\Debug\TURRET_101.exe.config
+C:\Users\ATTAH NEIYE\Desktop\bank\TURRET_101\TURRET_101\bin\Debug\TURRET_101.exe
+C:\Users\ATTAH NEIYE\Desktop\bank\TURRET_101\TURRET_101\bin\Debug\TURRET_101.pdb
+C:\Users\ATTAH NEIYE\Desktop\bank\TURRET_101\TURRET_101\obj\Debug\TURRET_101.csprojResolveAssemblyReference.cache
+C:\Users\ATTAH NEIYE\Desktop\bank\TURRET_101\TURRET_101\obj\Debug\TURRET_101.Form1.resources
+C:\Users\ATTAH NEIYE\Desktop\bank\TURRET_101\TURRET_101\obj\Debug\TURRET_101.Properties.Resources.resources
+C:\Users\ATTAH NEIYE\Desktop\bank\TURRET_101\TURRET_101\obj\Debug\TURRET_101.csproj.GenerateResource.Cache
+C:\Users\ATTAH NEIYE\Desktop\bank\TURRET_101\TURRET_101\obj\Debug\TURRET_101.exe
+C:\Users\ATTAH NEIYE\Desktop\bank\TURRET_101\TURRET_101\obj\Debug\TURRET_101.pdb
